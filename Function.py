@@ -50,6 +50,7 @@ def buyTicket():
     # function
     # o print bill invoice at the end. Use printInvoice function created in class Bill
     # o store the bill data into bill.txt fil
+    print('whasup')
     print("lol")
 
 def showRecords():
